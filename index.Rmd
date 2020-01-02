@@ -1,11 +1,26 @@
 ---
 title: ""
-output: html_document
+output: 
+  html_document: 
+    self_contained: false
 ---
 
-See below for interactive Figures referenced in 'Interruption of Continuous Opioid Exposure Exacerbates Drug-Evoked Adaptations in the Mesolimbic Dopamine System':
+## Interactive Figures referenced in 'Interruption of Continuous Opioid Exposure Exacerbates Drug-Evoked Adaptations in the Mesolimbic Dopamine System': {.tabset}
 
-* [Figure 4E](Figure-4E.html)
-* [Figure 4F](Figure-4F.html)
-* [Figure 4G](Figure-4G.html)
-* [Figure 4H](Figure-4H.html)
+### Figure 4E
+
+Here's my title
+
+<iframe src="Figure-4E.html" width="100%" height="400" id="igraph" scrolling="no" seamless="seamless" frameBorder="0"> </iframe>
+
+### Figure 4F
+
+<iframe src="Figure-4F.html" width="100%" height="400" id="igraph" scrolling="no" seamless="seamless" frameBorder="0"> </iframe>
+
+### Figure 4G
+
+<iframe src="Figure-4G.html" width="100%" height="400" id="igraph" scrolling="no" seamless="seamless" frameBorder="0"> </iframe>
+
+### Figure 4H
+
+<iframe src="Figure-4H.html" width="100%" height="400" id="igraph" scrolling="no" seamless="seamless" frameBorder="0"> </iframe>
